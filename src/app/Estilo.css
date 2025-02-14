@@ -1,0 +1,17 @@
+*{
+    background-color: #a0b6b1;  
+    font-family: Arial, sans-serif;
+    margin: 0; 
+    padding: 0; 
+}
+#caja{
+    width: 80%;
+    margin: 0 auto; 
+        padding: 5px; 
+        background-color: #153458; 
+        box-shadow: 0 2px 4px rgba(54, 46, 46, 0.1); 
+}
+#p{
+background-color: rgb(22, 1, 1);
+color: azure;
+}
